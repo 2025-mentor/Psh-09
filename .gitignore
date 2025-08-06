@@ -1,0 +1,28 @@
+node_modules/
+
+# production
+dist/
+
+# env files
+.env
+.env.*
+
+# Vite cache
+.vite/
+
+# Test coverage
+coverage/
+
+# misc
+.DS_Store
+Thumbs.db
+.AppleDouble
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# IDE
+.vscode/
